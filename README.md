@@ -1,2 +1,2 @@
 # Portfolio
-A simple portfolio describing my skills and achievements and also people let to know about my background.
+Crafted a straightforward portfolio detailing my skills, achievements, and background and will give you a comprehensive understanding of my capabilities."
